@@ -1,11 +1,17 @@
 dc=telefonica,dc=local
 
 │
+
 ├── ou=Informatica
+
 │   ├── cn=Laura Garcia
+
 │   ├── cn=Daniel Lopez
+
 │   └── cn=Pablo Navarro
+
 │
+
 ├── ou=RecursosHumanos
 │   ├── cn=Marta Sanchez
 │   ├── cn=Javier Ruiz
