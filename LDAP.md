@@ -13,26 +13,47 @@ dc=telefonica,dc=local
 │
 
 ├── ou=RecursosHumanos
+
 │   ├── cn=Marta Sanchez
+
 │   ├── cn=Javier Ruiz
+
 │   └── cn=Elena Castro
+
 │
+
 ├── ou=Finanzas
+
 │   ├── cn=Carlos Moreno
+
 │   ├── cn=Lucia Fernandez
+
 │   └── cn=Alberto Gil
+
 │
+
 ├── ou=Marketing
+
 │   ├── cn=Sofia Romero
+
 │   ├── cn=Andres Herrera
+
 │   └── cn=Paula Ortega
+
 │
+
 ├── ou=AtencionAlCliente
+
 │   ├── cn=Raquel Molina
+
 │   ├── cn=Sergio Vega
+
 │   └── cn=Irene Diaz
+
 │
+
 ├── cn=Administradores
+
 └── cn=Empleados
 
 
