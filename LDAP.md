@@ -1,4 +1,5 @@
 dc=telefonica,dc=local
+
 │
 ├── ou=Informatica
 │   ├── cn=Laura Garcia
