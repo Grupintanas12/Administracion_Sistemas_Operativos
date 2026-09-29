@@ -98,8 +98,3 @@ cn=Sergio,sn=Vega,ou=AtencionAlCliente,dc=telefonica,dc=local
 
 cn=Irene,sn=Diaz,ou=AtencionAlCliente,dc=telefonica,dc=local
 
-### Grupos
-
-cn=Administradores,dc=telefonica,dc=local
-
-cn=Empleados,dc=telefonica,dc=local
