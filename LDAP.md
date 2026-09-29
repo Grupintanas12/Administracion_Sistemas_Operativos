@@ -57,7 +57,7 @@ dc=telefonica,dc=local
 └── cn=Empleados
 
 
-Hemos elegido Telefónica como empresa real. Los nombres de los empleados son ficticios, mientras que los departamentos corresponden a áreas reales de una empresa de telecomunicaciones. Hemos creado el dominio telefonica.local y dentro hemos organizado a 15 empleados en cinco unidades organizativas: Informática, Recursos Humanos, Finanzas, Marketing y Atención al Cliente. También hemos creado dos grupos: Administradores, formado por el personal de Informática, y Empleados. Cada usuario tiene un DN completo que indica su nombre, la OU a la que pertenece y el dominio LDAP.
+Hemos elegido Telefónica como empresa real. Los nombres de los empleados son ficticios, mientras que los departamentos corresponden a áreas reales de una empresa de telecomunicaciones. Hemos creado el dominio telefonica.local y dentro hemos organizado a 15 empleados en cinco unidades organizativas: Informática, Recursos Humanos, Finanzas, Marketing y Atención al Cliente. También hemos creado dos grupos: Administradores y Empleados. Cada usuario tiene un DN completo que indica su nombre, la OU a la que pertenece y el dominio LDAP.
 
 ## DN
 
