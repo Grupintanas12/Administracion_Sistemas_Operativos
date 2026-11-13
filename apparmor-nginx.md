@@ -1,4 +1,4 @@
-# Laboratorio de aislamiento de Nginx con AppArmor
+# Aislamiento de Nginx con AppArmor
 
 ## Objetivo
 
