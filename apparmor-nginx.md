@@ -1,4 +1,4 @@
-# Aislamiento de Nginx con AppArmor
+# Confinamiento de Nginx con AppArmor
 
 ## Objetivo
 
